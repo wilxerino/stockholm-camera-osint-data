@@ -1,0 +1,18 @@
+.DS_Store
+
+# Xcode and Swift build products
+DerivedData/
+.derived-data-log-*
+.build/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Local scratch/output directories
+outputs/
+work/
+.bundle/
+
+# Python dataset tooling
+__pycache__/
+*.pyc

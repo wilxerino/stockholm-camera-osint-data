@@ -1,0 +1,42 @@
+{
+  "decisions": {},
+  "last_research_at": "2026-09-24",
+  "notes": [
+    {
+      "finding": "Bankomat says most machines have surveillance. This does not identify which machines or camera coordinates; seek per-site evidence before mapping.",
+      "source_url": "https://www.bankomat.se/din-sakerhet/",
+      "topic": "ATM surveillance"
+    },
+    {
+      "finding": "SEB documents surveillance at premises and ATMs, without a per-camera location list. Treat as source lead, not a pin.",
+      "source_url": "https://seb.se/juridik-och-sakerhet/sebs-integritetspolicyer/kamerabevakning",
+      "topic": "Bank premises and ATMs"
+    },
+    {
+      "finding": "Operator notices establish monitoring in some facilities, not individual camera positions. A site-level notice record needs a location-specific source and must remain distinct from a camera pin.",
+      "source_url": "https://www.stockholmparkering.se/systemsidor/gdpr/andamal-2/",
+      "topic": "Storefront and parking notices"
+    },
+    {
+      "topic": "OpenStreetMap untyped surveillance leads",
+      "finding": "A bounded public OSM query on 2026-09-24 found 73 surveillance objects without surveillance:type in the Stockholm area; these require object-by-object verification before becoming camera candidates. Query man_made=surveillance including ways, and inspect camera:direction, camera:type, and source tags.",
+      "source_url": "https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance"
+    },
+    {
+      "topic": "Trafikverket road-weather cameras",
+      "finding": "VViS roadside stations can include a camera taking road-condition still images. Search WeatherMeasurepoint and official open API documentation for unique station IDs, coordinates, image permission, and direction; a free API key may be required. Deduplicate against existing traffic records.",
+      "source_url": "https://bransch.trafikverket.se/tjanster/trafiktjanster/VViS/"
+    },
+    {
+      "topic": "IMY site-specific decisions",
+      "finding": "Published camera permit decisions can identify surveilled sites and sometimes coverage plans, but a site address does not by itself identify each lens coordinate or active installation. Keep site/area leads distinct from camera pins.",
+      "source_url": "https://www.imy.se/publikationer/kamerabevakning-och-tillstandsprovning-20182025/"
+    },
+    {
+      "topic": "Police and city surveillance areas",
+      "finding": "Polisen and Stockholm city publish monitoring purposes and some areas. Drone and temporary zones must be modeled as time-bounded areas, not fixed camera pins.",
+      "source_url": "https://polisen.se/lagar-och-regler/behandling-av-personuppgifter/kamerabevakning/"
+    }
+  ],
+  "schema_version": "1.0"
+}

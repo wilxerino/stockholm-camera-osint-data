@@ -1,0 +1,5863 @@
+{
+  "changes": [
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10302282791",
+        "latitude": 59.3249705,
+        "longitude": 18.0693319,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10302282791"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10302282791",
+        "latitude": 59.3249705,
+        "longitude": 18.0693319,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10302282791"
+      },
+      "id": "atm-osm-node-10302282791",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10542949328",
+        "latitude": 59.3391278,
+        "longitude": 18.0563128,
+        "name": "Euronet",
+        "operator": "Euronet",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10542949328"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10542949328",
+        "latitude": 59.3391278,
+        "longitude": 18.0563128,
+        "name": "Euronet",
+        "operator": "Euronet",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10542949328"
+      },
+      "id": "atm-osm-node-10542949328",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1090537316",
+        "latitude": 59.3365356,
+        "longitude": 18.0785816,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1090537316"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1090537316",
+        "latitude": 59.3365356,
+        "longitude": 18.0785816,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1090537316"
+      },
+      "id": "atm-osm-node-1090537316",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10908665992",
+        "latitude": 59.3397004,
+        "longitude": 18.0360971,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10908665992"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-10908665992",
+        "latitude": 59.3397004,
+        "longitude": 18.0360971,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/10908665992"
+      },
+      "id": "atm-osm-node-10908665992",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11118221391",
+        "latitude": 59.4591615,
+        "longitude": 18.1390853,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11118221391"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11118221391",
+        "latitude": 59.4591615,
+        "longitude": 18.1390853,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11118221391"
+      },
+      "id": "atm-osm-node-11118221391",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11208627678",
+        "latitude": 59.2623443,
+        "longitude": 18.0139375,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11208627678"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11208627678",
+        "latitude": 59.2623443,
+        "longitude": 18.0139375,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11208627678"
+      },
+      "id": "atm-osm-node-11208627678",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11208658497",
+        "latitude": 59.2622048,
+        "longitude": 18.0149046,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11208658497"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11208658497",
+        "latitude": 59.2622048,
+        "longitude": 18.0149046,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11208658497"
+      },
+      "id": "atm-osm-node-11208658497",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1126903215",
+        "latitude": 59.3184925,
+        "longitude": 18.0603948,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1126903215"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1126903215",
+        "latitude": 59.3184925,
+        "longitude": 18.0603948,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1126903215"
+      },
+      "id": "atm-osm-node-1126903215",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11563720236",
+        "latitude": 59.3555383,
+        "longitude": 17.9450181,
+        "name": null,
+        "operator": "Forex Bank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11563720236"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11563720236",
+        "latitude": 59.3555383,
+        "longitude": 17.9450181,
+        "name": null,
+        "operator": "Forex Bank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11563720236"
+      },
+      "id": "atm-osm-node-11563720236",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1161921154",
+        "latitude": 59.3103674,
+        "longitude": 18.021813,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1161921154"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1161921154",
+        "latitude": 59.3103674,
+        "longitude": 18.021813,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1161921154"
+      },
+      "id": "atm-osm-node-1161921154",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1193166668",
+        "latitude": 59.2426113,
+        "longitude": 18.0925215,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1193166668"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1193166668",
+        "latitude": 59.2426113,
+        "longitude": 18.0925215,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1193166668"
+      },
+      "id": "atm-osm-node-1193166668",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11993275930",
+        "latitude": 59.4019278,
+        "longitude": 17.9460596,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11993275930"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-11993275930",
+        "latitude": 59.4019278,
+        "longitude": 17.9460596,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/11993275930"
+      },
+      "id": "atm-osm-node-11993275930",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1200263327",
+        "latitude": 59.4768597,
+        "longitude": 17.9123447,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1200263327"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1200263327",
+        "latitude": 59.4768597,
+        "longitude": 17.9123447,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1200263327"
+      },
+      "id": "atm-osm-node-1200263327",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12006178270",
+        "latitude": 59.4100973,
+        "longitude": 17.9258631,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12006178270"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12006178270",
+        "latitude": 59.4100973,
+        "longitude": 17.9258631,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12006178270"
+      },
+      "id": "atm-osm-node-12006178270",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1202971230",
+        "latitude": 59.3643023,
+        "longitude": 17.9951898,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1202971230"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1202971230",
+        "latitude": 59.3643023,
+        "longitude": 17.9951898,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1202971230"
+      },
+      "id": "atm-osm-node-1202971230",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1204403063",
+        "latitude": 59.3486543,
+        "longitude": 18.101006,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1204403063"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1204403063",
+        "latitude": 59.3486543,
+        "longitude": 18.101006,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1204403063"
+      },
+      "id": "atm-osm-node-1204403063",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12064451623",
+        "latitude": 59.2479859,
+        "longitude": 17.8606354,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12064451623"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12064451623",
+        "latitude": 59.2479859,
+        "longitude": 17.8606354,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12064451623"
+      },
+      "id": "atm-osm-node-12064451623",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12070612427",
+        "latitude": 59.3490475,
+        "longitude": 18.1456549,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12070612427"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12070612427",
+        "latitude": 59.3490475,
+        "longitude": 18.1456549,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12070612427"
+      },
+      "id": "atm-osm-node-12070612427",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12095932104",
+        "latitude": 59.4115857,
+        "longitude": 17.8021791,
+        "name": "ICA Kvantum Viksjö",
+        "operator": "ICA Kvantum",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12095932104"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12095932104",
+        "latitude": 59.4115857,
+        "longitude": 17.8021791,
+        "name": "ICA Kvantum Viksjö",
+        "operator": "ICA Kvantum",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12095932104"
+      },
+      "id": "atm-osm-node-12095932104",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12110517750",
+        "latitude": 59.365553,
+        "longitude": 18.1336245,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12110517750"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12110517750",
+        "latitude": 59.365553,
+        "longitude": 18.1336245,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12110517750"
+      },
+      "id": "atm-osm-node-12110517750",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1213866623",
+        "latitude": 59.2429246,
+        "longitude": 18.0893273,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1213866623"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1213866623",
+        "latitude": 59.2429246,
+        "longitude": 18.0893273,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1213866623"
+      },
+      "id": "atm-osm-node-1213866623",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1233864683",
+        "latitude": 59.2418004,
+        "longitude": 18.0904104,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1233864683"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1233864683",
+        "latitude": 59.2418004,
+        "longitude": 18.0904104,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1233864683"
+      },
+      "id": "atm-osm-node-1233864683",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1251653371",
+        "latitude": 59.4454879,
+        "longitude": 17.9660349,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1251653371"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1251653371",
+        "latitude": 59.4454879,
+        "longitude": 17.9660349,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1251653371"
+      },
+      "id": "atm-osm-node-1251653371",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12650328275",
+        "latitude": 59.4140276,
+        "longitude": 17.8645345,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12650328275"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12650328275",
+        "latitude": 59.4140276,
+        "longitude": 17.8645345,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12650328275"
+      },
+      "id": "atm-osm-node-12650328275",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12864782439",
+        "latitude": 59.3340323,
+        "longitude": 18.0325423,
+        "name": null,
+        "operator": "Ta ut",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12864782439"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-12864782439",
+        "latitude": 59.3340323,
+        "longitude": 18.0325423,
+        "name": null,
+        "operator": "Ta ut",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/12864782439"
+      },
+      "id": "atm-osm-node-12864782439",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13196209368",
+        "latitude": 59.4114871,
+        "longitude": 17.8030384,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13196209368"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13196209368",
+        "latitude": 59.4114871,
+        "longitude": 17.8030384,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13196209368"
+      },
+      "id": "atm-osm-node-13196209368",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1327385727",
+        "latitude": 59.4307153,
+        "longitude": 18.0958502,
+        "name": null,
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1327385727"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1327385727",
+        "latitude": 59.4307153,
+        "longitude": 18.0958502,
+        "name": null,
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1327385727"
+      },
+      "id": "atm-osm-node-1327385727",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13343040184",
+        "latitude": 59.3684527,
+        "longitude": 17.9797772,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13343040184"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13343040184",
+        "latitude": 59.3684527,
+        "longitude": 17.9797772,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13343040184"
+      },
+      "id": "atm-osm-node-13343040184",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13344064463",
+        "latitude": 59.3128639,
+        "longitude": 18.0715152,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13344064463"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13344064463",
+        "latitude": 59.3128639,
+        "longitude": 18.0715152,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13344064463"
+      },
+      "id": "atm-osm-node-13344064463",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1334429728",
+        "latitude": 59.2362414,
+        "longitude": 17.9806973,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1334429728"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1334429728",
+        "latitude": 59.2362414,
+        "longitude": 17.9806973,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1334429728"
+      },
+      "id": "atm-osm-node-1334429728",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13404341308",
+        "latitude": 59.3647299,
+        "longitude": 17.9743612,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13404341308"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13404341308",
+        "latitude": 59.3647299,
+        "longitude": 17.9743612,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13404341308"
+      },
+      "id": "atm-osm-node-13404341308",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1348515191",
+        "latitude": 59.3107781,
+        "longitude": 18.0753237,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1348515191"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1348515191",
+        "latitude": 59.3107781,
+        "longitude": 18.0753237,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1348515191"
+      },
+      "id": "atm-osm-node-1348515191",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1348515285",
+        "latitude": 59.3083913,
+        "longitude": 18.0759266,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1348515285"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1348515285",
+        "latitude": 59.3083913,
+        "longitude": 18.0759266,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1348515285"
+      },
+      "id": "atm-osm-node-1348515285",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13956041283",
+        "latitude": 59.2756565,
+        "longitude": 17.9091917,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13956041283"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13956041283",
+        "latitude": 59.2756565,
+        "longitude": 17.9091917,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13956041283"
+      },
+      "id": "atm-osm-node-13956041283",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13959919382",
+        "latitude": 59.1689674,
+        "longitude": 18.139525,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13959919382"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-13959919382",
+        "latitude": 59.1689674,
+        "longitude": 18.139525,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/13959919382"
+      },
+      "id": "atm-osm-node-13959919382",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14002775108",
+        "latitude": 59.2176232,
+        "longitude": 17.9577559,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14002775108"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14002775108",
+        "latitude": 59.2176232,
+        "longitude": 17.9577559,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14002775108"
+      },
+      "id": "atm-osm-node-14002775108",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14183755997",
+        "latitude": 59.3709019,
+        "longitude": 18.0032858,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14183755997"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14183755997",
+        "latitude": 59.3709019,
+        "longitude": 18.0032858,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14183755997"
+      },
+      "id": "atm-osm-node-14183755997",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14204002861",
+        "latitude": 59.3557998,
+        "longitude": 17.9558567,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14204002861"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-14204002861",
+        "latitude": 59.3557998,
+        "longitude": 17.9558567,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/14204002861"
+      },
+      "id": "atm-osm-node-14204002861",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-150545535",
+        "latitude": 59.479058,
+        "longitude": 17.7519247,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/150545535"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-150545535",
+        "latitude": 59.479058,
+        "longitude": 17.7519247,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/150545535"
+      },
+      "id": "atm-osm-node-150545535",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1547109965",
+        "latitude": 59.3375581,
+        "longitude": 17.9374742,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1547109965"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1547109965",
+        "latitude": 59.3375581,
+        "longitude": 17.9374742,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1547109965"
+      },
+      "id": "atm-osm-node-1547109965",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1690330076",
+        "latitude": 59.3635772,
+        "longitude": 18.0579974,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1690330076"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1690330076",
+        "latitude": 59.3635772,
+        "longitude": 18.0579974,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1690330076"
+      },
+      "id": "atm-osm-node-1690330076",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1710047644",
+        "latitude": 59.4229867,
+        "longitude": 17.8351505,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1710047644"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1710047644",
+        "latitude": 59.4229867,
+        "longitude": 17.8351505,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1710047644"
+      },
+      "id": "atm-osm-node-1710047644",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1716951589",
+        "latitude": 59.3390923,
+        "longitude": 18.0820588,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1716951589"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1716951589",
+        "latitude": 59.3390923,
+        "longitude": 18.0820588,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1716951589"
+      },
+      "id": "atm-osm-node-1716951589",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1736398587",
+        "latitude": 59.2062592,
+        "longitude": 17.9031598,
+        "name": null,
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1736398587"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1736398587",
+        "latitude": 59.2062592,
+        "longitude": 17.9031598,
+        "name": null,
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1736398587"
+      },
+      "id": "atm-osm-node-1736398587",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672105",
+        "latitude": 59.2016843,
+        "longitude": 17.7675113,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672105"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672105",
+        "latitude": 59.2016843,
+        "longitude": 17.7675113,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672105"
+      },
+      "id": "atm-osm-node-1753672105",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672107",
+        "latitude": 59.2015858,
+        "longitude": 17.7673832,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672107"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672107",
+        "latitude": 59.2015858,
+        "longitude": 17.7673832,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672107"
+      },
+      "id": "atm-osm-node-1753672107",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672111",
+        "latitude": 59.2016765,
+        "longitude": 17.7673724,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672111"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1753672111",
+        "latitude": 59.2016765,
+        "longitude": 17.7673724,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1753672111"
+      },
+      "id": "atm-osm-node-1753672111",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1768150728",
+        "latitude": 59.2953794,
+        "longitude": 18.1004768,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1768150728"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1768150728",
+        "latitude": 59.2953794,
+        "longitude": 18.1004768,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1768150728"
+      },
+      "id": "atm-osm-node-1768150728",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1768150729",
+        "latitude": 59.2951439,
+        "longitude": 18.102724,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1768150729"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1768150729",
+        "latitude": 59.2951439,
+        "longitude": 18.102724,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1768150729"
+      },
+      "id": "atm-osm-node-1768150729",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1835736847",
+        "latitude": 59.2175406,
+        "longitude": 18.15368,
+        "name": null,
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1835736847"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1835736847",
+        "latitude": 59.2175406,
+        "longitude": 18.15368,
+        "name": null,
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1835736847"
+      },
+      "id": "atm-osm-node-1835736847",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1848234994",
+        "latitude": 59.3969529,
+        "longitude": 17.9494575,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1848234994"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1848234994",
+        "latitude": 59.3969529,
+        "longitude": 17.9494575,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1848234994"
+      },
+      "id": "atm-osm-node-1848234994",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1879690778",
+        "latitude": 59.3061848,
+        "longitude": 18.0012876,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1879690778"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1879690778",
+        "latitude": 59.3061848,
+        "longitude": 18.0012876,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1879690778"
+      },
+      "id": "atm-osm-node-1879690778",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1984211766",
+        "latitude": 59.3792854,
+        "longitude": 17.8486343,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1984211766"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-1984211766",
+        "latitude": 59.3792854,
+        "longitude": 17.8486343,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/1984211766"
+      },
+      "id": "atm-osm-node-1984211766",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2099194346",
+        "latitude": 59.3047317,
+        "longitude": 17.9745111,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2099194346"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2099194346",
+        "latitude": 59.3047317,
+        "longitude": 17.9745111,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2099194346"
+      },
+      "id": "atm-osm-node-2099194346",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2105619157",
+        "latitude": 59.4032675,
+        "longitude": 17.9471934,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2105619157"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2105619157",
+        "latitude": 59.4032675,
+        "longitude": 17.9471934,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2105619157"
+      },
+      "id": "atm-osm-node-2105619157",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2105619167",
+        "latitude": 59.4037291,
+        "longitude": 17.9485121,
+        "name": null,
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2105619167"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2105619167",
+        "latitude": 59.4037291,
+        "longitude": 17.9485121,
+        "name": null,
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2105619167"
+      },
+      "id": "atm-osm-node-2105619167",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2165044340",
+        "latitude": 59.4627054,
+        "longitude": 18.1342859,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2165044340"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2165044340",
+        "latitude": 59.4627054,
+        "longitude": 18.1342859,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2165044340"
+      },
+      "id": "atm-osm-node-2165044340",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2229410700",
+        "latitude": 59.33712,
+        "longitude": 18.009719,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2229410700"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2229410700",
+        "latitude": 59.33712,
+        "longitude": 18.009719,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2229410700"
+      },
+      "id": "atm-osm-node-2229410700",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2288368325",
+        "latitude": 59.2951308,
+        "longitude": 17.9347848,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2288368325"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2288368325",
+        "latitude": 59.2951308,
+        "longitude": 17.9347848,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2288368325"
+      },
+      "id": "atm-osm-node-2288368325",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2364201101",
+        "latitude": 59.479682,
+        "longitude": 18.2996633,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2364201101"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2364201101",
+        "latitude": 59.479682,
+        "longitude": 18.2996633,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2364201101"
+      },
+      "id": "atm-osm-node-2364201101",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2396256817",
+        "latitude": 59.2941364,
+        "longitude": 18.0803118,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2396256817"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2396256817",
+        "latitude": 59.2941364,
+        "longitude": 18.0803118,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2396256817"
+      },
+      "id": "atm-osm-node-2396256817",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2396256818",
+        "latitude": 59.2939051,
+        "longitude": 18.0804868,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2396256818"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2396256818",
+        "latitude": 59.2939051,
+        "longitude": 18.0804868,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2396256818"
+      },
+      "id": "atm-osm-node-2396256818",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2398801009",
+        "latitude": 59.3495757,
+        "longitude": 18.1461211,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2398801009"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2398801009",
+        "latitude": 59.3495757,
+        "longitude": 18.1461211,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2398801009"
+      },
+      "id": "atm-osm-node-2398801009",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2411550522",
+        "latitude": 59.3810245,
+        "longitude": 17.8983301,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2411550522"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2411550522",
+        "latitude": 59.3810245,
+        "longitude": 17.8983301,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2411550522"
+      },
+      "id": "atm-osm-node-2411550522",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2489815978",
+        "latitude": 59.3419506,
+        "longitude": 18.0639903,
+        "name": null,
+        "operator": "Nokas",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2489815978"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2489815978",
+        "latitude": 59.3419506,
+        "longitude": 18.0639903,
+        "name": null,
+        "operator": "Nokas",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2489815978"
+      },
+      "id": "atm-osm-node-2489815978",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2493131751",
+        "latitude": 59.2505302,
+        "longitude": 18.011409,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2493131751"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2493131751",
+        "latitude": 59.2505302,
+        "longitude": 18.011409,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2493131751"
+      },
+      "id": "atm-osm-node-2493131751",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2493835568",
+        "latitude": 59.324383,
+        "longitude": 18.0964779,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2493835568"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2493835568",
+        "latitude": 59.324383,
+        "longitude": 18.0964779,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2493835568"
+      },
+      "id": "atm-osm-node-2493835568",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2504994785",
+        "latitude": 59.3049405,
+        "longitude": 18.1312789,
+        "name": null,
+        "operator": "Länsförsäkringar",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2504994785"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2504994785",
+        "latitude": 59.3049405,
+        "longitude": 18.1312789,
+        "name": null,
+        "operator": "Länsförsäkringar",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2504994785"
+      },
+      "id": "atm-osm-node-2504994785",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2522005852",
+        "latitude": 59.3025339,
+        "longitude": 18.1029274,
+        "name": "Kontanten",
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2522005852"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2522005852",
+        "latitude": 59.3025339,
+        "longitude": 18.1029274,
+        "name": "Kontanten",
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2522005852"
+      },
+      "id": "atm-osm-node-2522005852",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2528957906",
+        "latitude": 59.305874,
+        "longitude": 18.1251942,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2528957906"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2528957906",
+        "latitude": 59.305874,
+        "longitude": 18.1251942,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2528957906"
+      },
+      "id": "atm-osm-node-2528957906",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2554667726",
+        "latitude": 59.3432036,
+        "longitude": 18.0494671,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2554667726"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2554667726",
+        "latitude": 59.3432036,
+        "longitude": 18.0494671,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2554667726"
+      },
+      "id": "atm-osm-node-2554667726",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2560497600",
+        "latitude": 59.2632054,
+        "longitude": 18.0430165,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2560497600"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2560497600",
+        "latitude": 59.2632054,
+        "longitude": 18.0430165,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2560497600"
+      },
+      "id": "atm-osm-node-2560497600",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2571793095",
+        "latitude": 59.332741,
+        "longitude": 17.9826197,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2571793095"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2571793095",
+        "latitude": 59.332741,
+        "longitude": 17.9826197,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2571793095"
+      },
+      "id": "atm-osm-node-2571793095",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2593118922",
+        "latitude": 59.3155411,
+        "longitude": 18.2290722,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2593118922"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2593118922",
+        "latitude": 59.3155411,
+        "longitude": 18.2290722,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2593118922"
+      },
+      "id": "atm-osm-node-2593118922",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2593134833",
+        "latitude": 59.3269136,
+        "longitude": 18.2577029,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2593134833"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2593134833",
+        "latitude": 59.3269136,
+        "longitude": 18.2577029,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2593134833"
+      },
+      "id": "atm-osm-node-2593134833",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2605322635",
+        "latitude": 59.1985923,
+        "longitude": 17.8441872,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2605322635"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2605322635",
+        "latitude": 59.1985923,
+        "longitude": 17.8441872,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2605322635"
+      },
+      "id": "atm-osm-node-2605322635",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2608542304",
+        "latitude": 59.2435655,
+        "longitude": 18.0926173,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2608542304"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2608542304",
+        "latitude": 59.2435655,
+        "longitude": 18.0926173,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2608542304"
+      },
+      "id": "atm-osm-node-2608542304",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2608556924",
+        "latitude": 59.4455227,
+        "longitude": 18.0714635,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2608556924"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2608556924",
+        "latitude": 59.4455227,
+        "longitude": 18.0714635,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2608556924"
+      },
+      "id": "atm-osm-node-2608556924",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2637644590",
+        "latitude": 59.4268634,
+        "longitude": 17.9525197,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2637644590"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2637644590",
+        "latitude": 59.4268634,
+        "longitude": 17.9525197,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2637644590"
+      },
+      "id": "atm-osm-node-2637644590",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2653577092",
+        "latitude": 59.4042842,
+        "longitude": 17.9436089,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2653577092"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2653577092",
+        "latitude": 59.4042842,
+        "longitude": 17.9436089,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2653577092"
+      },
+      "id": "atm-osm-node-2653577092",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2756372259",
+        "latitude": 59.3324001,
+        "longitude": 18.0613289,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2756372259"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2756372259",
+        "latitude": 59.3324001,
+        "longitude": 18.0613289,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2756372259"
+      },
+      "id": "atm-osm-node-2756372259",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2763463867",
+        "latitude": 59.3499933,
+        "longitude": 17.9865957,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2763463867"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2763463867",
+        "latitude": 59.3499933,
+        "longitude": 17.9865957,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2763463867"
+      },
+      "id": "atm-osm-node-2763463867",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-282583565",
+        "latitude": 59.2931129,
+        "longitude": 17.9673387,
+        "name": null,
+        "operator": "bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/282583565"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-282583565",
+        "latitude": 59.2931129,
+        "longitude": 17.9673387,
+        "name": null,
+        "operator": "bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/282583565"
+      },
+      "id": "atm-osm-node-282583565",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2826938369",
+        "latitude": 59.3464839,
+        "longitude": 18.0338965,
+        "name": "Kontanten",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2826938369"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-2826938369",
+        "latitude": 59.3464839,
+        "longitude": 18.0338965,
+        "name": "Kontanten",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/2826938369"
+      },
+      "id": "atm-osm-node-2826938369",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-29827641",
+        "latitude": 59.345326,
+        "longitude": 18.0391349,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/29827641"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-29827641",
+        "latitude": 59.345326,
+        "longitude": 18.0391349,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/29827641"
+      },
+      "id": "atm-osm-node-29827641",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-30067822",
+        "latitude": 59.365485,
+        "longitude": 18.13349,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/30067822"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-30067822",
+        "latitude": 59.365485,
+        "longitude": 18.13349,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/30067822"
+      },
+      "id": "atm-osm-node-30067822",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-318315593",
+        "latitude": 59.3289608,
+        "longitude": 18.0427047,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/318315593"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-318315593",
+        "latitude": 59.3289608,
+        "longitude": 18.0427047,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/318315593"
+      },
+      "id": "atm-osm-node-318315593",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3452507986",
+        "latitude": 59.2661772,
+        "longitude": 17.9249329,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3452507986"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3452507986",
+        "latitude": 59.2661772,
+        "longitude": 17.9249329,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3452507986"
+      },
+      "id": "atm-osm-node-3452507986",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3471937519",
+        "latitude": 59.2740518,
+        "longitude": 17.9068213,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3471937519"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3471937519",
+        "latitude": 59.2740518,
+        "longitude": 17.9068213,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3471937519"
+      },
+      "id": "atm-osm-node-3471937519",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-369973036",
+        "latitude": 59.3322637,
+        "longitude": 18.0793595,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/369973036"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-369973036",
+        "latitude": 59.3322637,
+        "longitude": 18.0793595,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/369973036"
+      },
+      "id": "atm-osm-node-369973036",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3717518575",
+        "latitude": 59.27412,
+        "longitude": 17.908302,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3717518575"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3717518575",
+        "latitude": 59.27412,
+        "longitude": 17.908302,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3717518575"
+      },
+      "id": "atm-osm-node-3717518575",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3723792936",
+        "latitude": 59.2834,
+        "longitude": 18.114234,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3723792936"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3723792936",
+        "latitude": 59.2834,
+        "longitude": 18.114234,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3723792936"
+      },
+      "id": "atm-osm-node-3723792936",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3793214962",
+        "latitude": 59.2749728,
+        "longitude": 18.0129349,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3793214962"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-3793214962",
+        "latitude": 59.2749728,
+        "longitude": 18.0129349,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/3793214962"
+      },
+      "id": "atm-osm-node-3793214962",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-38427811",
+        "latitude": 59.4289,
+        "longitude": 17.949396,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/38427811"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-38427811",
+        "latitude": 59.4289,
+        "longitude": 17.949396,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/38427811"
+      },
+      "id": "atm-osm-node-38427811",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-38438086",
+        "latitude": 59.4102285,
+        "longitude": 17.9637051,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/38438086"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-38438086",
+        "latitude": 59.4102285,
+        "longitude": 17.9637051,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/38438086"
+      },
+      "id": "atm-osm-node-38438086",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4013808465",
+        "latitude": 59.3455718,
+        "longitude": 18.0713672,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4013808465"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4013808465",
+        "latitude": 59.3455718,
+        "longitude": 18.0713672,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4013808465"
+      },
+      "id": "atm-osm-node-4013808465",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-410521358",
+        "latitude": 59.340236,
+        "longitude": 18.0764225,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/410521358"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-410521358",
+        "latitude": 59.340236,
+        "longitude": 18.0764225,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/410521358"
+      },
+      "id": "atm-osm-node-410521358",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415276919",
+        "latitude": 59.31758,
+        "longitude": 18.050893,
+        "name": null,
+        "operator": "Nokas",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415276919"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415276919",
+        "latitude": 59.31758,
+        "longitude": 18.050893,
+        "name": null,
+        "operator": "Nokas",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415276919"
+      },
+      "id": "atm-osm-node-415276919",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415280440",
+        "latitude": 59.3163815,
+        "longitude": 18.0410486,
+        "name": "Handelsbanken Högalid",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415280440"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415280440",
+        "latitude": 59.3163815,
+        "longitude": 18.0410486,
+        "name": "Handelsbanken Högalid",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415280440"
+      },
+      "id": "atm-osm-node-415280440",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415981782",
+        "latitude": 59.3328412,
+        "longitude": 18.0568843,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415981782"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-415981782",
+        "latitude": 59.3328412,
+        "longitude": 18.0568843,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/415981782"
+      },
+      "id": "atm-osm-node-415981782",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-420450074",
+        "latitude": 59.3042857,
+        "longitude": 18.0938027,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/420450074"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-420450074",
+        "latitude": 59.3042857,
+        "longitude": 18.0938027,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/420450074"
+      },
+      "id": "atm-osm-node-420450074",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4362991519",
+        "latitude": 59.3761375,
+        "longitude": 17.9408507,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4362991519"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4362991519",
+        "latitude": 59.3761375,
+        "longitude": 17.9408507,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4362991519"
+      },
+      "id": "atm-osm-node-4362991519",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-443690834",
+        "latitude": 59.3797929,
+        "longitude": 17.8170699,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/443690834"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-443690834",
+        "latitude": 59.3797929,
+        "longitude": 17.8170699,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/443690834"
+      },
+      "id": "atm-osm-node-443690834",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-445807904",
+        "latitude": 59.369544,
+        "longitude": 17.8590085,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/445807904"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-445807904",
+        "latitude": 59.369544,
+        "longitude": 17.8590085,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/445807904"
+      },
+      "id": "atm-osm-node-445807904",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-446048556",
+        "latitude": 59.4023294,
+        "longitude": 17.9442652,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/446048556"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-446048556",
+        "latitude": 59.4023294,
+        "longitude": 17.9442652,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/446048556"
+      },
+      "id": "atm-osm-node-446048556",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4525403610",
+        "latitude": 59.3116735,
+        "longitude": 18.1968694,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4525403610"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4525403610",
+        "latitude": 59.3116735,
+        "longitude": 18.1968694,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4525403610"
+      },
+      "id": "atm-osm-node-4525403610",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4541555454",
+        "latitude": 59.3048065,
+        "longitude": 18.1307477,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4541555454"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4541555454",
+        "latitude": 59.3048065,
+        "longitude": 18.1307477,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4541555454"
+      },
+      "id": "atm-osm-node-4541555454",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-463212568",
+        "latitude": 59.3940142,
+        "longitude": 17.9018888,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/463212568"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-463212568",
+        "latitude": 59.3940142,
+        "longitude": 17.9018888,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/463212568"
+      },
+      "id": "atm-osm-node-463212568",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-466524079",
+        "latitude": 59.346649,
+        "longitude": 18.1001204,
+        "name": "ICA Nära Gärdet",
+        "operator": "ICA Nära",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/466524079"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-466524079",
+        "latitude": 59.346649,
+        "longitude": 18.1001204,
+        "name": "ICA Nära Gärdet",
+        "operator": "ICA Nära",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/466524079"
+      },
+      "id": "atm-osm-node-466524079",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4696094267",
+        "latitude": 59.3566498,
+        "longitude": 17.951642,
+        "name": null,
+        "operator": "Kontanten AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4696094267"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4696094267",
+        "latitude": 59.3566498,
+        "longitude": 17.951642,
+        "name": null,
+        "operator": "Kontanten AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4696094267"
+      },
+      "id": "atm-osm-node-4696094267",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-471963919",
+        "latitude": 59.3327049,
+        "longitude": 18.0637677,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/471963919"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-471963919",
+        "latitude": 59.3327049,
+        "longitude": 18.0637677,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/471963919"
+      },
+      "id": "atm-osm-node-471963919",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-472644551",
+        "latitude": 59.3324682,
+        "longitude": 18.0316655,
+        "name": null,
+        "operator": "ta ut",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/472644551"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-472644551",
+        "latitude": 59.3324682,
+        "longitude": 18.0316655,
+        "name": null,
+        "operator": "ta ut",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/472644551"
+      },
+      "id": "atm-osm-node-472644551",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4746799860",
+        "latitude": 59.3113904,
+        "longitude": 18.2020417,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4746799860"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4746799860",
+        "latitude": 59.3113904,
+        "longitude": 18.2020417,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4746799860"
+      },
+      "id": "atm-osm-node-4746799860",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-475902933",
+        "latitude": 59.3321117,
+        "longitude": 18.062806,
+        "name": "Bankomat",
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/475902933"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-475902933",
+        "latitude": 59.3321117,
+        "longitude": 18.062806,
+        "name": "Bankomat",
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/475902933"
+      },
+      "id": "atm-osm-node-475902933",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-479369184",
+        "latitude": 59.3340219,
+        "longitude": 18.0651537,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/479369184"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-479369184",
+        "latitude": 59.3340219,
+        "longitude": 18.0651537,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/479369184"
+      },
+      "id": "atm-osm-node-479369184",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-483644582",
+        "latitude": 59.3315006,
+        "longitude": 18.0676147,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/483644582"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-483644582",
+        "latitude": 59.3315006,
+        "longitude": 18.0676147,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/483644582"
+      },
+      "id": "atm-osm-node-483644582",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4882050123",
+        "latitude": 59.3533298,
+        "longitude": 17.9974091,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4882050123"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4882050123",
+        "latitude": 59.3533298,
+        "longitude": 17.9974091,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4882050123"
+      },
+      "id": "atm-osm-node-4882050123",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-489898954",
+        "latitude": 59.3329452,
+        "longitude": 18.0707291,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/489898954"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-489898954",
+        "latitude": 59.3329452,
+        "longitude": 18.0707291,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/489898954"
+      },
+      "id": "atm-osm-node-489898954",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-489953821",
+        "latitude": 59.4024868,
+        "longitude": 17.867628,
+        "name": null,
+        "operator": "Kontanten AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/489953821"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-489953821",
+        "latitude": 59.4024868,
+        "longitude": 17.867628,
+        "name": null,
+        "operator": "Kontanten AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/489953821"
+      },
+      "id": "atm-osm-node-489953821",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490481723",
+        "latitude": 59.3346799,
+        "longitude": 18.0329825,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490481723"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490481723",
+        "latitude": 59.3346799,
+        "longitude": 18.0329825,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490481723"
+      },
+      "id": "atm-osm-node-490481723",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490482321",
+        "latitude": 59.3311817,
+        "longitude": 18.0566375,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490482321"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490482321",
+        "latitude": 59.3311817,
+        "longitude": 18.0566375,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490482321"
+      },
+      "id": "atm-osm-node-490482321",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490482468",
+        "latitude": 59.297954,
+        "longitude": 18.0794217,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490482468"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490482468",
+        "latitude": 59.297954,
+        "longitude": 18.0794217,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490482468"
+      },
+      "id": "atm-osm-node-490482468",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490494003",
+        "latitude": 59.3398578,
+        "longitude": 18.0916311,
+        "name": "Bankomat",
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490494003"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-490494003",
+        "latitude": 59.3398578,
+        "longitude": 18.0916311,
+        "name": "Bankomat",
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/490494003"
+      },
+      "id": "atm-osm-node-490494003",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-491495379",
+        "latitude": 59.4016365,
+        "longitude": 17.9467927,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/491495379"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-491495379",
+        "latitude": 59.4016365,
+        "longitude": 17.9467927,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/491495379"
+      },
+      "id": "atm-osm-node-491495379",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-492945623",
+        "latitude": 59.3478,
+        "longitude": 18.0037,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/492945623"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-492945623",
+        "latitude": 59.3478,
+        "longitude": 18.0037,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/492945623"
+      },
+      "id": "atm-osm-node-492945623",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130653",
+        "latitude": 59.236876,
+        "longitude": 17.9814281,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130653"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130653",
+        "latitude": 59.236876,
+        "longitude": 17.9814281,
+        "name": "Nordea",
+        "operator": "Nordea",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130653"
+      },
+      "id": "atm-osm-node-496130653",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130659",
+        "latitude": 59.2364727,
+        "longitude": 17.9806025,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130659"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130659",
+        "latitude": 59.2364727,
+        "longitude": 17.9806025,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130659"
+      },
+      "id": "atm-osm-node-496130659",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130661",
+        "latitude": 59.2365581,
+        "longitude": 17.982895,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130661"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130661",
+        "latitude": 59.2365581,
+        "longitude": 17.982895,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130661"
+      },
+      "id": "atm-osm-node-496130661",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130663",
+        "latitude": 59.2365644,
+        "longitude": 17.9832458,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130663"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-496130663",
+        "latitude": 59.2365644,
+        "longitude": 17.9832458,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/496130663"
+      },
+      "id": "atm-osm-node-496130663",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4984353538",
+        "latitude": 59.4236523,
+        "longitude": 17.8358241,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4984353538"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-4984353538",
+        "latitude": 59.4236523,
+        "longitude": 17.8358241,
+        "name": null,
+        "operator": "Bankomat AB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/4984353538"
+      },
+      "id": "atm-osm-node-4984353538",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-534287859",
+        "latitude": 59.3016475,
+        "longitude": 18.0127287,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/534287859"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-534287859",
+        "latitude": 59.3016475,
+        "longitude": 18.0127287,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/534287859"
+      },
+      "id": "atm-osm-node-534287859",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5416718222",
+        "latitude": 59.3617689,
+        "longitude": 17.9654688,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5416718222"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5416718222",
+        "latitude": 59.3617689,
+        "longitude": 17.9654688,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5416718222"
+      },
+      "id": "atm-osm-node-5416718222",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5433633514",
+        "latitude": 59.2662336,
+        "longitude": 18.1328052,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5433633514"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5433633514",
+        "latitude": 59.2662336,
+        "longitude": 18.1328052,
+        "name": null,
+        "operator": "Kontanten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5433633514"
+      },
+      "id": "atm-osm-node-5433633514",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-546851591",
+        "latitude": 59.4721792,
+        "longitude": 18.3313262,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/546851591"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-546851591",
+        "latitude": 59.4721792,
+        "longitude": 18.3313262,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/546851591"
+      },
+      "id": "atm-osm-node-546851591",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5549503854",
+        "latitude": 59.3088995,
+        "longitude": 18.1650237,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5549503854"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5549503854",
+        "latitude": 59.3088995,
+        "longitude": 18.1650237,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5549503854"
+      },
+      "id": "atm-osm-node-5549503854",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-566438137",
+        "latitude": 59.3386859,
+        "longitude": 17.9395303,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/566438137"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-566438137",
+        "latitude": 59.3386859,
+        "longitude": 17.9395303,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/566438137"
+      },
+      "id": "atm-osm-node-566438137",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5906664864",
+        "latitude": 59.3399706,
+        "longitude": 18.0917156,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5906664864"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5906664864",
+        "latitude": 59.3399706,
+        "longitude": 18.0917156,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5906664864"
+      },
+      "id": "atm-osm-node-5906664864",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5922268748",
+        "latitude": 59.2990118,
+        "longitude": 18.0813986,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5922268748"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5922268748",
+        "latitude": 59.2990118,
+        "longitude": 18.0813986,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5922268748"
+      },
+      "id": "atm-osm-node-5922268748",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5969701386",
+        "latitude": 59.4351093,
+        "longitude": 18.0767484,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5969701386"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-5969701386",
+        "latitude": 59.4351093,
+        "longitude": 18.0767484,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/5969701386"
+      },
+      "id": "atm-osm-node-5969701386",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-639151754",
+        "latitude": 59.2969198,
+        "longitude": 18.0528486,
+        "name": null,
+        "operator": "Den Danske Bank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/639151754"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-639151754",
+        "latitude": 59.2969198,
+        "longitude": 18.0528486,
+        "name": null,
+        "operator": "Den Danske Bank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/639151754"
+      },
+      "id": "atm-osm-node-639151754",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-654027724",
+        "latitude": 59.3287361,
+        "longitude": 17.9285153,
+        "name": null,
+        "operator": "Automaten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/654027724"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-654027724",
+        "latitude": 59.3287361,
+        "longitude": 17.9285153,
+        "name": null,
+        "operator": "Automaten",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/654027724"
+      },
+      "id": "atm-osm-node-654027724",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-658866805",
+        "latitude": 59.41714,
+        "longitude": 17.8572994,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/658866805"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-658866805",
+        "latitude": 59.41714,
+        "longitude": 17.8572994,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/658866805"
+      },
+      "id": "atm-osm-node-658866805",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6597652085",
+        "latitude": 59.3816231,
+        "longitude": 18.0342922,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6597652085"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6597652085",
+        "latitude": 59.3816231,
+        "longitude": 18.0342922,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6597652085"
+      },
+      "id": "atm-osm-node-6597652085",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-672748863",
+        "latitude": 59.31607,
+        "longitude": 18.0118016,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/672748863"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-672748863",
+        "latitude": 59.31607,
+        "longitude": 18.0118016,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/672748863"
+      },
+      "id": "atm-osm-node-672748863",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6747293548",
+        "latitude": 59.3054298,
+        "longitude": 18.1281016,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6747293548"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6747293548",
+        "latitude": 59.3054298,
+        "longitude": 18.1281016,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6747293548"
+      },
+      "id": "atm-osm-node-6747293548",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-677103708",
+        "latitude": 59.3176963,
+        "longitude": 18.0571716,
+        "name": "ICA Supermarket Aptiten",
+        "operator": "ICA Supermarket",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/677103708"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-677103708",
+        "latitude": 59.3176963,
+        "longitude": 18.0571716,
+        "name": "ICA Supermarket Aptiten",
+        "operator": "ICA Supermarket",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/677103708"
+      },
+      "id": "atm-osm-node-677103708",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6859073169",
+        "latitude": 59.3305803,
+        "longitude": 18.0574288,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6859073169"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6859073169",
+        "latitude": 59.3305803,
+        "longitude": 18.0574288,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6859073169"
+      },
+      "id": "atm-osm-node-6859073169",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6859073170",
+        "latitude": 59.3305742,
+        "longitude": 18.0574359,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6859073170"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6859073170",
+        "latitude": 59.3305742,
+        "longitude": 18.0574359,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6859073170"
+      },
+      "id": "atm-osm-node-6859073170",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6865724370",
+        "latitude": 59.3700863,
+        "longitude": 18.0046472,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6865724370"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6865724370",
+        "latitude": 59.3700863,
+        "longitude": 18.0046472,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6865724370"
+      },
+      "id": "atm-osm-node-6865724370",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-687035013",
+        "latitude": 59.2971133,
+        "longitude": 17.982747,
+        "name": "Ica",
+        "operator": "ICA Supermarket",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/687035013"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-687035013",
+        "latitude": 59.2971133,
+        "longitude": 17.982747,
+        "name": "Ica",
+        "operator": "ICA Supermarket",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/687035013"
+      },
+      "id": "atm-osm-node-687035013",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6908300485",
+        "latitude": 59.3058787,
+        "longitude": 18.1252582,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6908300485"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6908300485",
+        "latitude": 59.3058787,
+        "longitude": 18.1252582,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6908300485"
+      },
+      "id": "atm-osm-node-6908300485",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6935885842",
+        "latitude": 59.4437266,
+        "longitude": 18.0720487,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6935885842"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6935885842",
+        "latitude": 59.4437266,
+        "longitude": 18.0720487,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6935885842"
+      },
+      "id": "atm-osm-node-6935885842",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6987836479",
+        "latitude": 59.361193,
+        "longitude": 17.9663621,
+        "name": "ICA banken",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6987836479"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6987836479",
+        "latitude": 59.361193,
+        "longitude": 17.9663621,
+        "name": "ICA banken",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6987836479"
+      },
+      "id": "atm-osm-node-6987836479",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6990384908",
+        "latitude": 59.3234177,
+        "longitude": 18.0681165,
+        "name": null,
+        "operator": "Euronet",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6990384908"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-6990384908",
+        "latitude": 59.3234177,
+        "longitude": 18.0681165,
+        "name": null,
+        "operator": "Euronet",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/6990384908"
+      },
+      "id": "atm-osm-node-6990384908",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7022341124",
+        "latitude": 59.3705442,
+        "longitude": 18.0024089,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7022341124"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7022341124",
+        "latitude": 59.3705442,
+        "longitude": 18.0024089,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7022341124"
+      },
+      "id": "atm-osm-node-7022341124",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-703981106",
+        "latitude": 59.2794755,
+        "longitude": 18.008769,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/703981106"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-703981106",
+        "latitude": 59.2794755,
+        "longitude": 18.008769,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/703981106"
+      },
+      "id": "atm-osm-node-703981106",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7040554329",
+        "latitude": 59.3591641,
+        "longitude": 18.0000302,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7040554329"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7040554329",
+        "latitude": 59.3591641,
+        "longitude": 18.0000302,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7040554329"
+      },
+      "id": "atm-osm-node-7040554329",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7069266949",
+        "latitude": 59.3323131,
+        "longitude": 18.0663503,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7069266949"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7069266949",
+        "latitude": 59.3323131,
+        "longitude": 18.0663503,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7069266949"
+      },
+      "id": "atm-osm-node-7069266949",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076332707",
+        "latitude": 59.3700115,
+        "longitude": 18.0048042,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076332707"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076332707",
+        "latitude": 59.3700115,
+        "longitude": 18.0048042,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076332707"
+      },
+      "id": "atm-osm-node-7076332707",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076940421",
+        "latitude": 59.3627849,
+        "longitude": 18.0112573,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076940421"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076940421",
+        "latitude": 59.3627849,
+        "longitude": 18.0112573,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076940421"
+      },
+      "id": "atm-osm-node-7076940421",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076940423",
+        "latitude": 59.3627546,
+        "longitude": 18.0112373,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076940423"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7076940423",
+        "latitude": 59.3627546,
+        "longitude": 18.0112373,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7076940423"
+      },
+      "id": "atm-osm-node-7076940423",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077431995",
+        "latitude": 59.3597638,
+        "longitude": 18.0003637,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077431995"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077431995",
+        "latitude": 59.3597638,
+        "longitude": 18.0003637,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077431995"
+      },
+      "id": "atm-osm-node-7077431995",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077431999",
+        "latitude": 59.3597733,
+        "longitude": 18.0004051,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077431999"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077431999",
+        "latitude": 59.3597733,
+        "longitude": 18.0004051,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077431999"
+      },
+      "id": "atm-osm-node-7077431999",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077432000",
+        "latitude": 59.3597542,
+        "longitude": 18.0003222,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077432000"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077432000",
+        "latitude": 59.3597542,
+        "longitude": 18.0003222,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077432000"
+      },
+      "id": "atm-osm-node-7077432000",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077432010",
+        "latitude": 59.3597829,
+        "longitude": 18.0004466,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077432010"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7077432010",
+        "latitude": 59.3597829,
+        "longitude": 18.0004466,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7077432010"
+      },
+      "id": "atm-osm-node-7077432010",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7089436955",
+        "latitude": 59.4025297,
+        "longitude": 17.9450917,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7089436955"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7089436955",
+        "latitude": 59.4025297,
+        "longitude": 17.9450917,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7089436955"
+      },
+      "id": "atm-osm-node-7089436955",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7089464658",
+        "latitude": 59.4028833,
+        "longitude": 17.9463129,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7089464658"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7089464658",
+        "latitude": 59.4028833,
+        "longitude": 17.9463129,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7089464658"
+      },
+      "id": "atm-osm-node-7089464658",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7133867794",
+        "latitude": 59.3581628,
+        "longitude": 17.9810733,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7133867794"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7133867794",
+        "latitude": 59.3581628,
+        "longitude": 17.9810733,
+        "name": null,
+        "operator": "ICA Banken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7133867794"
+      },
+      "id": "atm-osm-node-7133867794",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7296746182",
+        "latitude": 59.3612,
+        "longitude": 17.9726677,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7296746182"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7296746182",
+        "latitude": 59.3612,
+        "longitude": 17.9726677,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7296746182"
+      },
+      "id": "atm-osm-node-7296746182",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-736797470",
+        "latitude": 59.2942604,
+        "longitude": 18.0803557,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/736797470"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-736797470",
+        "latitude": 59.2942604,
+        "longitude": 18.0803557,
+        "name": "SEB",
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/736797470"
+      },
+      "id": "atm-osm-node-736797470",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-736797486",
+        "latitude": 59.2942091,
+        "longitude": 18.0803792,
+        "name": null,
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/736797486"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-736797486",
+        "latitude": 59.2942091,
+        "longitude": 18.0803792,
+        "name": null,
+        "operator": "SEB",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/736797486"
+      },
+      "id": "atm-osm-node-736797486",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7619490339",
+        "latitude": 59.4025403,
+        "longitude": 17.9447617,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7619490339"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7619490339",
+        "latitude": 59.4025403,
+        "longitude": 17.9447617,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7619490339"
+      },
+      "id": "atm-osm-node-7619490339",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7632916556",
+        "latitude": 59.3979924,
+        "longitude": 18.0866723,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7632916556"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7632916556",
+        "latitude": 59.3979924,
+        "longitude": 18.0866723,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7632916556"
+      },
+      "id": "atm-osm-node-7632916556",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7640813575",
+        "latitude": 59.470897,
+        "longitude": 17.9156757,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7640813575"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7640813575",
+        "latitude": 59.470897,
+        "longitude": 17.9156757,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7640813575"
+      },
+      "id": "atm-osm-node-7640813575",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-772222405",
+        "latitude": 59.4039661,
+        "longitude": 17.9426567,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/772222405"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-772222405",
+        "latitude": 59.4039661,
+        "longitude": 17.9426567,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/772222405"
+      },
+      "id": "atm-osm-node-772222405",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-776659917",
+        "latitude": 59.3418973,
+        "longitude": 18.0378874,
+        "name": "Bankomat",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/776659917"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-776659917",
+        "latitude": 59.3418973,
+        "longitude": 18.0378874,
+        "name": "Bankomat",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/776659917"
+      },
+      "id": "atm-osm-node-776659917",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7927659861",
+        "latitude": 59.3631488,
+        "longitude": 18.1233572,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7927659861"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7927659861",
+        "latitude": 59.3631488,
+        "longitude": 18.1233572,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7927659861"
+      },
+      "id": "atm-osm-node-7927659861",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7947911861",
+        "latitude": 59.3620026,
+        "longitude": 17.9637646,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7947911861"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7947911861",
+        "latitude": 59.3620026,
+        "longitude": 17.9637646,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7947911861"
+      },
+      "id": "atm-osm-node-7947911861",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7988469865",
+        "latitude": 59.4799613,
+        "longitude": 18.2965406,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7988469865"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-7988469865",
+        "latitude": 59.4799613,
+        "longitude": 18.2965406,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/7988469865"
+      },
+      "id": "atm-osm-node-7988469865",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8306041733",
+        "latitude": 59.1681718,
+        "longitude": 18.13639,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8306041733"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8306041733",
+        "latitude": 59.1681718,
+        "longitude": 18.13639,
+        "name": "Bankomat",
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8306041733"
+      },
+      "id": "atm-osm-node-8306041733",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8361998274",
+        "latitude": 59.3515106,
+        "longitude": 18.1116639,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8361998274"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8361998274",
+        "latitude": 59.3515106,
+        "longitude": 18.1116639,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8361998274"
+      },
+      "id": "atm-osm-node-8361998274",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8402743308",
+        "latitude": 59.3982347,
+        "longitude": 18.0366377,
+        "name": null,
+        "operator": "All Swedish Banks Its owned by \"Bankomat®\"",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8402743308"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8402743308",
+        "latitude": 59.3982347,
+        "longitude": 18.0366377,
+        "name": null,
+        "operator": "All Swedish Banks Its owned by \"Bankomat®\"",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8402743308"
+      },
+      "id": "atm-osm-node-8402743308",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-842452671",
+        "latitude": 59.3128222,
+        "longitude": 18.0577945,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/842452671"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-842452671",
+        "latitude": 59.3128222,
+        "longitude": 18.0577945,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/842452671"
+      },
+      "id": "atm-osm-node-842452671",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-849852874",
+        "latitude": 59.4023141,
+        "longitude": 18.3315401,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/849852874"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-849852874",
+        "latitude": 59.4023141,
+        "longitude": 18.3315401,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/849852874"
+      },
+      "id": "atm-osm-node-849852874",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8567467381",
+        "latitude": 59.4786705,
+        "longitude": 18.3066083,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8567467381"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8567467381",
+        "latitude": 59.4786705,
+        "longitude": 18.3066083,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8567467381"
+      },
+      "id": "atm-osm-node-8567467381",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8622427647",
+        "latitude": 59.3623405,
+        "longitude": 17.8718852,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8622427647"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8622427647",
+        "latitude": 59.3623405,
+        "longitude": 17.8718852,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8622427647"
+      },
+      "id": "atm-osm-node-8622427647",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8622720146",
+        "latitude": 59.3619433,
+        "longitude": 17.8755181,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8622720146"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8622720146",
+        "latitude": 59.3619433,
+        "longitude": 17.8755181,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8622720146"
+      },
+      "id": "atm-osm-node-8622720146",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8685852417",
+        "latitude": 59.3157398,
+        "longitude": 18.0330239,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8685852417"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8685852417",
+        "latitude": 59.3157398,
+        "longitude": 18.0330239,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8685852417"
+      },
+      "id": "atm-osm-node-8685852417",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-868861451",
+        "latitude": 59.2570076,
+        "longitude": 18.0817062,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/868861451"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-868861451",
+        "latitude": 59.2570076,
+        "longitude": 18.0817062,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/868861451"
+      },
+      "id": "atm-osm-node-868861451",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8745910255",
+        "latitude": 59.3311803,
+        "longitude": 18.0639811,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8745910255"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8745910255",
+        "latitude": 59.3311803,
+        "longitude": 18.0639811,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8745910255"
+      },
+      "id": "atm-osm-node-8745910255",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8977816701",
+        "latitude": 59.2417434,
+        "longitude": 18.2843773,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8977816701"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-8977816701",
+        "latitude": 59.2417434,
+        "longitude": 18.2843773,
+        "name": "Bankomat",
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/8977816701"
+      },
+      "id": "atm-osm-node-8977816701",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9026927959",
+        "latitude": 59.2353456,
+        "longitude": 17.9810004,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9026927959"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9026927959",
+        "latitude": 59.2353456,
+        "longitude": 17.9810004,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9026927959"
+      },
+      "id": "atm-osm-node-9026927959",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9047921017",
+        "latitude": 59.3327158,
+        "longitude": 17.9826641,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9047921017"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9047921017",
+        "latitude": 59.3327158,
+        "longitude": 17.9826641,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9047921017"
+      },
+      "id": "atm-osm-node-9047921017",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-905132735",
+        "latitude": 59.3676312,
+        "longitude": 17.84353,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/905132735"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-905132735",
+        "latitude": 59.3676312,
+        "longitude": 17.84353,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/905132735"
+      },
+      "id": "atm-osm-node-905132735",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9113601733",
+        "latitude": 59.3334252,
+        "longitude": 18.0626895,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9113601733"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9113601733",
+        "latitude": 59.3334252,
+        "longitude": 18.0626895,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9113601733"
+      },
+      "id": "atm-osm-node-9113601733",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-916675110",
+        "latitude": 59.2850476,
+        "longitude": 18.0931571,
+        "name": null,
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/916675110"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-916675110",
+        "latitude": 59.2850476,
+        "longitude": 18.0931571,
+        "name": null,
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/916675110"
+      },
+      "id": "atm-osm-node-916675110",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-918532200",
+        "latitude": 59.3975556,
+        "longitude": 18.0892749,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/918532200"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-918532200",
+        "latitude": 59.3975556,
+        "longitude": 18.0892749,
+        "name": "Handelsbanken",
+        "operator": "Handelsbanken",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/918532200"
+      },
+      "id": "atm-osm-node-918532200",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-918591706",
+        "latitude": 59.3971864,
+        "longitude": 18.0371231,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/918591706"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-918591706",
+        "latitude": 59.3971864,
+        "longitude": 18.0371231,
+        "name": "Swedbank",
+        "operator": "Swedbank",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/918591706"
+      },
+      "id": "atm-osm-node-918591706",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9346527525",
+        "latitude": 59.3158442,
+        "longitude": 18.0340288,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9346527525"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9346527525",
+        "latitude": 59.3158442,
+        "longitude": 18.0340288,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9346527525"
+      },
+      "id": "atm-osm-node-9346527525",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9498363865",
+        "latitude": 59.327975,
+        "longitude": 18.0181045,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9498363865"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9498363865",
+        "latitude": 59.327975,
+        "longitude": 18.0181045,
+        "name": null,
+        "operator": "Bankomat",
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9498363865"
+      },
+      "id": "atm-osm-node-9498363865",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9625200092",
+        "latitude": 59.3098443,
+        "longitude": 18.1634216,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9625200092"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9625200092",
+        "latitude": 59.3098443,
+        "longitude": 18.1634216,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9625200092"
+      },
+      "id": "atm-osm-node-9625200092",
+      "reason": null,
+      "status": "UNCHANGED"
+    },
+    {
+      "after": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9791341424",
+        "latitude": 59.3879853,
+        "longitude": 17.9285895,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9791341424"
+      },
+      "before": {
+        "camera_presence": "unknown",
+        "id": "atm-osm-node-9791341424",
+        "latitude": 59.3879853,
+        "longitude": 17.9285895,
+        "name": null,
+        "operator": null,
+        "source_ids": [
+          "openstreetmap-stockholm-atms"
+        ],
+        "source_url": "https://www.openstreetmap.org/node/9791341424"
+      },
+      "id": "atm-osm-node-9791341424",
+      "reason": null,
+      "status": "UNCHANGED"
+    }
+  ],
+  "source": "openstreetmap-stockholm-atms"
+}

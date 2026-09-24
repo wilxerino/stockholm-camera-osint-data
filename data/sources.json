@@ -1,0 +1,98 @@
+[
+  {
+    "id": "camstreamer-medview-dn-tower",
+    "license": "Publisher-hosted public embed; video is not redistributed",
+    "public_feed_documentation": true,
+    "published_date": null,
+    "publisher": "CamStreamer / Mediateknik",
+    "reliability": "high",
+    "retrieved_date": "2026-09-24",
+    "source_type": "other",
+    "title": "MEDview DN-skrapan Stockholm public live stream and embed",
+    "url": "https://camstreamer.com/live/stream/503018648-medview-dn-skrapan-stockholm"
+  },
+  {
+    "id": "fartkameran-stockholm-safety-list",
+    "license": "Camera coordinates attributed to Trafikverket CC0; link each publisher page",
+    "public_feed_documentation": false,
+    "published_date": null,
+    "publisher": "Fartkameran.se (Trafikverket data)",
+    "reliability": "medium",
+    "retrieved_date": "2026-09-24",
+    "source_type": "other",
+    "title": "Stockholm County traffic safety camera listing",
+    "url": "https://fartkameran.se/kameror/lan/stockholms-lan/"
+  },
+  {
+    "id": "mediateknik-dn-tower-announcement",
+    "license": "Public source metadata only",
+    "public_feed_documentation": true,
+    "published_date": "2019-03-01",
+    "publisher": "Mediateknik",
+    "reliability": "high",
+    "retrieved_date": "2026-09-24",
+    "source_type": "news",
+    "title": "MEDview live from DN-huset in Stockholm",
+    "url": "https://www.mynewsdesk.com/se/mediateknik-i-varberg-ab/news/medview-live-fraan-dn-huset-i-stockholm-360473"
+  },
+  {
+    "id": "openstreetmap-stockholm-atms",
+    "license": "Data © OpenStreetMap contributors; ODbL 1.0 https://opendatacommons.org/licenses/odbl/1-0/",
+    "public_feed_documentation": false,
+    "published_date": null,
+    "publisher": "OpenStreetMap contributors",
+    "reliability": "medium",
+    "retrieved_date": "2026-09-24",
+    "source_type": "open_data",
+    "title": "OpenStreetMap mapped ATM locations in Stockholm area",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "id": "openstreetmap-stockholm-surveillance",
+    "license": "Data © OpenStreetMap contributors; Open Database License 1.0 (ODbL) https://opendatacommons.org/licenses/odbl/1-0/",
+    "public_feed_documentation": false,
+    "published_date": null,
+    "publisher": "OpenStreetMap contributors",
+    "reliability": "medium",
+    "retrieved_date": "2026-09-24",
+    "source_type": "open_data",
+    "title": "OpenStreetMap mapped surveillance and speed cameras",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "id": "teleported-dn-tower-location",
+    "license": "Public source metadata only",
+    "public_feed_documentation": false,
+    "published_date": null,
+    "publisher": "Teleported TV",
+    "reliability": "medium",
+    "retrieved_date": "2026-09-24",
+    "source_type": "other",
+    "title": "DN Tower live webcam location and east-facing view",
+    "url": "https://teleported.tv/watch/stockholm-riddarfjarden-view/"
+  },
+  {
+    "id": "trafiken-nu-public-camera-faq",
+    "license": "Public documentation; metadata attribution retained",
+    "public_feed_documentation": true,
+    "published_date": null,
+    "publisher": "Trafiken.nu",
+    "reliability": "high",
+    "retrieved_date": "2026-09-24",
+    "source_type": "other",
+    "title": "Trafiken.nu Stockholm camera image FAQ",
+    "url": "https://trafiken.nu/stockholm/vanliga-fragor/"
+  },
+  {
+    "id": "trafiken-nu-stockholm-camera-list",
+    "license": "Trafikverket API information CC0; Trafiken.nu page facts attributed separately",
+    "public_feed_documentation": true,
+    "published_date": null,
+    "publisher": "Trafiken.nu",
+    "reliability": "high",
+    "retrieved_date": "2026-09-24",
+    "source_type": "other",
+    "title": "Trafiken.nu Stockholm public camera listing",
+    "url": "https://trafiken.nu/stockholm/kameror/"
+  }
+]

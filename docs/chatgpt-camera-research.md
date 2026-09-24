@@ -1,0 +1,19 @@
+# Scheduled Stockholm camera research
+
+Use this text as the prompt for a weekly ChatGPT desktop scheduled task attached to this public dataset repository. Select an isolated Git worktree. Keep the computer on and the ChatGPT desktop app running for local project work. A web-only task can research but cannot edit this local folder.
+
+## Task prompt
+
+Research newly documented surveillance, road-weather, traffic, transit, municipal, police, parking, ATM-site, and storefront cameras in the Stockholm area using legitimate public sources. Work only in this dataset repository. First read `README.md`, `data/research-state.json`, `data/discovery-history.json`, `schema/camera.schema.json`, `schema/source.schema.json`, `scripts/camera_data.py`, and existing production/candidate records. Search official publishers first: Trafikverket road-weather and camera data, Trafiken.nu, Stockholm city, Polisen, IMY decisions, public transit and parking operators. Also inspect OpenStreetMap surveillance objects, including those missing `surveillance:type`, as leads only. Search public camera publishers for explicitly authorized feeds. Avoid repeating previously rejected findings.
+
+For every new source, record its URL, publisher, retrieval date, reuse terms, and what it actually establishes. For every candidate, record a stable source-native ID, precise coordinates only when the source establishes them, category, operator/status only when documented, source IDs, and `confidence: "pending_review"`. Unknown orientation, horizontal FOV, range, or feed must stay null/false. A camera notice, permit, police surveillance area, ATM location, or nearby street photo establishes at most a site/area lead unless it identifies a particular camera. Never turn an Internet-exposed endpoint or Shodan result into a public feed.
+
+Geometry: `orientation` is the lens bearing clockwise from north. Do not confuse road travel direction with lens direction. Add `horizontal_fov` and `range_m` only when a source supports those specific values or a reproducible measurement with clearly stated limits. Cite geometry sources in `geometry_source_ids` and choose official/documented/approximate provenance honestly. A sourced direction alone is useful: the app already shows a dashed, clearly illustrative cone, while width and range remain unknown. Verified full geometry shows a solid cone. Do not create numerical geometry solely for display.
+
+Produce one complete candidate envelope per primary source under `data/candidates/research-SOURCE-YYYY-MM-DD.json`, with `source` set to that source ID, using the format in `README.md`. Run `python3 scripts/camera_data.py reconcile FILE --output data/proposals/research-SOURCE-YYYY-MM-DD.json` for each envelope, then run dataset tests and validation. Keep production `data/cameras.json`, `data/sources.json`, `data/atms.json`, and `data/manifest.json` untouched. If GitHub access and a remote are configured, open a candidate-only pull request with source links, counts, explicit ADDED/MODIFIED/CONFLICTING changes, geometry/feed evidence, and uncertain items requiring review. Do not merge or promote candidates. If no repository or write access exists, leave the candidate/proposal files locally and report their absolute paths.
+
+If no credible new evidence is found, leave production unchanged and report only meaningful source changes or failures. Do not scan IP ranges, probe devices, test credentials, access exposed RTSP, or retrieve non-public feeds.
+
+## Review and publish
+
+Review source provenance, duplicate warnings, licensing, feed permission, and geometry evidence in the proposed pull request. Set accepted candidates to high/medium/low confidence and run the `promote` command in `README.md`. Merge the reviewed production change. The app then sees the new manifest and downloads the validated dataset from the configured public GitHub URL.

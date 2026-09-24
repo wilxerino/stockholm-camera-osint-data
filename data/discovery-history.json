@@ -1,0 +1,46 @@
+[
+  {
+    "accepted_count": 241,
+    "candidate_count": 293,
+    "discovered_at": "2026-09-24",
+    "failure_history": [],
+    "last_checked": "2026-09-24",
+    "reason": "293 published coordinates validated; 241 imported at medium confidence; 52 near an existing camera held for duplicate review.",
+    "source_id": "fartkameran-stockholm-safety-list",
+    "status": "partially_accepted"
+  },
+  {
+    "accepted_count": 202,
+    "candidate_count": 202,
+    "discovered_at": "2026-09-24",
+    "failure_history": [],
+    "last_checked": "2026-09-24",
+    "source_id": "openstreetmap-stockholm-atms",
+    "status": "accepted"
+  },
+  {
+    "accepted_count": 174,
+    "candidate_count": 174,
+    "discovered_at": "2026-09-24",
+    "failure_history": [
+      {
+        "date": "2026-09-24",
+        "reason": "HTTP Error 504: Gateway Timeout"
+      }
+    ],
+    "last_checked": "2026-09-24",
+    "reason": "174 exact camera/speed-camera OSM nodes revalidated through OSM API; low confidence, no feeds; ODbL attribution and share-alike applied.",
+    "source_id": "openstreetmap-stockholm-surveillance",
+    "status": "accepted"
+  },
+  {
+    "accepted_count": 327,
+    "candidate_count": 327,
+    "discovered_at": "2026-09-24",
+    "failure_history": [],
+    "last_checked": "2026-09-24",
+    "reason": "327 unique public still-image listings accepted after source and schema review; direction retained, FOV/range null",
+    "source_id": "trafiken-nu-stockholm-camera-list",
+    "status": "accepted"
+  }
+]

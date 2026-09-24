@@ -1,0 +1,39 @@
+name: Validate camera data
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'schema/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/validate-camera-data.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'schema/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/validate-camera-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Production dataset and manifest
+        run: python3 scripts/camera_data.py validate
+      - name: Bundled offline data matches production
+        run: |
+          if [ -d Mosaic ]; then
+            cmp data/cameras.json Mosaic/cameras.json
+            cmp data/sources.json Mosaic/sources.json
+            cmp data/manifest.json Mosaic/manifest.json
+            cmp data/atms.json Mosaic/atms.json
+          fi

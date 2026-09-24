@@ -1,0 +1,80 @@
+name: Discover public camera candidates
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: camera-candidate-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: discover
+        name: Fetch and reconcile public sources
+        shell: bash
+        run: |
+          material=false
+          for source in trafiken osm; do
+            if python3 scripts/discover_cameras.py "$source"; then
+              git show "HEAD:data/candidates/$source.json" > "/tmp/previous-$source.json" 2>/dev/null || rm -f "/tmp/previous-$source.json"
+              if python3 scripts/camera_data.py material-change "data/candidates/$source.json" "/tmp/previous-$source.json"; then
+                python3 scripts/camera_data.py reconcile "data/candidates/$source.json" --output "data/proposals/$source.json"
+                material=true
+              else
+                git restore -- "data/candidates/$source.json"
+              fi
+            else
+              echo "Public $source source unavailable; retaining current production dataset" >&2
+            fi
+          done
+          if python3 scripts/discover_atms.py; then
+            git show HEAD:data/candidates/atms.json > /tmp/previous-atms.json 2>/dev/null || rm -f /tmp/previous-atms.json
+            if python3 scripts/camera_data.py material-change data/candidates/atms.json /tmp/previous-atms.json; then
+              material=true
+            else
+              git restore -- data/candidates/atms.json data/proposals/atms.json 2>/dev/null || true
+            fi
+          else
+            echo 'Public ATM source unavailable; retaining current production ATM dataset' >&2
+          fi
+          # Read the 293 public speed-camera pages once a month; source failures
+          # never alter production or invalidate the other discovery results.
+          if [ "$(date -u +%d)" -le 7 ] || [ "${{ github.event_name }}" = workflow_dispatch ]; then
+            if python3 scripts/discover_safety_cameras.py; then
+              python3 scripts/camera_data.py reconcile data/candidates/safety-cameras.json --output data/proposals/safety-cameras.json
+              git show HEAD:data/candidates/safety-cameras.json > /tmp/previous-safety-cameras.json 2>/dev/null || rm -f /tmp/previous-safety-cameras.json
+              if python3 scripts/camera_data.py material-change data/candidates/safety-cameras.json /tmp/previous-safety-cameras.json; then
+                material=true
+              fi
+            else
+              echo 'Public speed-camera listing unavailable; retaining production dataset' >&2
+            fi
+          fi
+          echo "material=$material" >> "$GITHUB_OUTPUT"
+      - name: Open or refresh review pull request
+        if: steps.discover.outputs.material == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          BRANCH="camera-discovery-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$BRANCH"
+          git add data/candidates data/proposals data/discovery-history.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Propose public camera discovery updates'
+          git push origin "$BRANCH"
+          gh pr create --head "$BRANCH" --base "$BASE_BRANCH" --title 'Review public camera discovery updates' --body 'Structured camera candidates and explicit reconciliation diffs. Review provenance, ODbL obligations for OpenStreetMap records, geometry, and feed authorization. This pull request does not change production cameras.json. Promote accepted records explicitly after review.'

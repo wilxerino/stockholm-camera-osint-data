@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mosaic camera source",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "url", "title", "publisher", "published_date", "retrieved_date", "source_type", "reliability", "license", "public_feed_documentation"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "url": {"type": "string", "format": "uri"},
+    "title": {"type": "string", "minLength": 1},
+    "publisher": {"type": "string", "minLength": 1},
+    "published_date": {"type": ["string", "null"], "format": "date"},
+    "retrieved_date": {"type": "string", "format": "date"},
+    "source_type": {"enum": ["government", "open_data", "public_transport", "research", "github", "news", "other"]},
+    "reliability": {"enum": ["high", "medium", "low"]},
+    "license": {"type": "string", "minLength": 1},
+    "public_feed_documentation": {"type": "boolean"}
+  }
+}

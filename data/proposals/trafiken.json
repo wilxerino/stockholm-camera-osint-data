@@ -1,0 +1,1322 @@
+{
+  "changes": [
+    {
+      "id": "camera-001926d8ce925e65895c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-00561fbd56e250174c28",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-01f08fa52c53a58037c7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0201c7d0ba204b918c9f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-02d99d34d8803f2fcaf9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0397e2f484938e82d53b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-05731ee29436813cfe20",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0625afc9a2cc0d195e6f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-067c5f03dadbc790a592",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0781eb7b6378117da785",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-07a1443e72fd40a32bcb",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0813d464eede1c022371",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-088c46674b4fe6b67ea5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-08ad47f97c7561036057",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-08cf078f8a8ee61c0a85",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0970acc940d7f06a43a9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-09a4af40d404a3d42ab2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0bb08774f518ecc53271",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0daf3676e268129bb137",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0dd5068ad858ea44bd2e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0e8a7427ef0c094a9996",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0edb92092f5e5467f3c4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0f4d6218ef31abab7f8a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-0ff0734b8ccba18e1195",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1008383adba2dfb14054",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-10e6710ee9e98396f960",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-11e89b1e614d608b61f1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1221be57c58a86d2d08b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-12e4439477c1657ba7fc",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-12e6deaf007df106920a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-132acb5c04ca6b1a3d21",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-137ed415191df37ed3a4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-14654be382336737ce47",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-149fa35c44b054f0cec1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-15e1d661ccb9f47adaf7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1628f96ee2d70922f6e5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-165b60f264d6ffcb6933",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-172188b1dd3e1c3a8e9e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-17fba8f9f4bddf8b6f91",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1858fdc5b68091b5fad5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-18b5b26e5629e5e6c47d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-198935847ab7f6349380",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1b04105e47e11c2c996c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1b0ee5ab0d9941a11960",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1b59eeb89ede1c4e7fec",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1b5b6be5a1566903a490",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1bdf1007f32a5ccf9c73",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1c190dd7300052262020",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1cc7d91b3fe98fb739c0",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1e840f0eb36478044de2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-1f183dbfa7198edee6f1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-201e2a350873544a4d7e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-20491c19285aa5975420",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-208d07a6f14eec83c21f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-21807cded3f661aadecd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-23544a71a3fd4290f387",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-243eb93216d518bfe2d4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-24407eb225e1baeea4f8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-267707b2ebdcb96e6d2e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-27dfacbdd78537038632",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-28438534d3d0861ac82e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-294f0e9e2630aede36b8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2b1a764107d8665c4643",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2bd38dcd66c1bc6c2e2a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2c19f1944c0c1118b8fe",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2c61ab14050364eff7fb",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2dd557f63979da80028d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2e4669c1591889f45442",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2edc99981aca6d9c5276",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2ee3004e4ad2545d92e1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-2f86608c38e9e7161e68",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-3015ba4fc4950240e24a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-30cb76b43adab8632223",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-30cde7ea6be7e6c47b28",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-34a087066fd93ae57a38",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-34b54555a2daa071d8ed",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-34d446fef651ee8da01a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-35bba4081b38568c5cc2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-36c2edba945f200c2429",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-36cb6ecbd7920526ba5e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-3748d7c10f2352676198",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-37520db036838d4a79cf",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-386fd7b38b3ac63ffaa3",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-38ec35bd4d77170858b0",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-3a42e49d15fed2cb0c93",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-3a6d196f8956532649d6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-3d2e4716b4456d3dae39",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-402ae48bad59e8a7a171",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-403b494fa7fff01ecfec",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-40801914f6fec8f5412a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-40a47a091f3d4a6b2846",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-40c7a1e1333a1868295e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4127afb2fd4510d07f3a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-42a8a323c8f232fda15b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4304fec2568b94c0dd1a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-436b8b4a0132fad9bffb",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-43cfed5570acba9c3037",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-46f1be9447e006765194",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4722fa03fcb46b9e3ff5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-47525fe74495c684ef65",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-47fef46ec36b5f984479",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4902bd43cb75eb1151c4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-499f1116058be716e025",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4a0caea4bc699888a5f8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4ab0423a8c287bf8e6d4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4b6c6c9bae86e798dee3",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4c76526fa4d83ee41d1a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4c8042f84a810ebecee1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4cbfff40de4487ad0172",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4ec6f856624296e28337",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-4fcd52ceafe43805826d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-517e9dbfc22d0b228c2e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-52b53b9b3fa37dd18a48",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-52fcb9b81121bba4ae52",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-53bdc01eac3878d5287e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5560fbf8e717777e7b4f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-55d65fcfed9b675bb390",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-55e8fbbe4641b00aa702",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-564fa325983cb41fa362",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-57ab0f9c0365aad63b9a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-580847763f25871e6174",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5813edca015a3abc64ba",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-599ea7e543d2b6e3f997",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-59ccc2e8fddb21ee2640",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-59ddbacda412ffbb82dc",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5afd10f3de91c974226c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5b361d6b2759d7e50239",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5c320d3aaf4617ae3312",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5cf033da3a11ed37a2e5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5da9bf8b7b7a157b7275",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-5fc91ec46737eda03d4f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-607babc04ea2007f52d8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-615f687b74d0738c75de",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-627fd6a84062582a80fd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-62cd543e296aeb075a17",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-631e3412faa6acc84269",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-64ee59ca1aad71d6d85c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-656380dbcea77054aef6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-66a33a9d21658b5082b0",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-675a686614bede7d2917",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-67f9530220975f0d5557",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6816c17d117f03f11c0a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6868607b011b70621c58",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-691a37d3ff873a9d9523",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-69ac105a4ceb55b97443",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-69b71c28f11e40dbd99e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-69f17260334cb71488e7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6b798d9a106c5bdae354",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6d1635e91477d71ccbb2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6d71318d993193b46025",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6d8fc7766093312c0581",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6dabbe003ece86566019",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6e79093602385df64536",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-6f476bee233fae59723e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-70ee3de2f866cbda68de",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-72432cebaabd57ad1b79",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-728f0dbb4ff6167ec684",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-74f28fababb8dfb5acd2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-75de3680dfe046fbd65a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-763b1db3ec6d19666358",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-7be86dfaf3a63ccbb320",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-7ce2258819ea419541c1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-7dfa1a3961159a40e319",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-7e7424ca30221a4d00b9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-7f1ada3916daa3675574",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-801127d7df3ddaa9d4ce",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-806b4288e525d3566e0c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-80b2e829981935eafdf9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-80cb28b7edee493610b4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-812bf24868b1708dfb16",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-81f3c3607b70b2939923",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-833316c24005ff1d28b6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-84b9740c2297056c0ebd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-84c88d1666bb26eb2630",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-859c925ba4024e9e5bba",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-874a2671ce697764ff35",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-87b43b63d13cdf1cc74f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-88107e2ba6d5dc466d40",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-889a982bf60e043d5787",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-892887aa23b823c3dd4d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-89e0920a8476d1deaaa9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8b29f7bdb4cc048a1bb1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8c506d8d2c307c85ac77",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8c61004130dd5f0679fe",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8d1808e86b57266b9158",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8e30391a53fb555e6d28",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8e67c6c5c7ce1a634cb1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8eb8bf3aa683c0d71086",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8ec56c7ca1cc20732a15",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8f0398d0d7ef82f75fa7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-8f262bc131bb71dba82a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-90a1a424e686ebb72bb8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-92c046edd0587ef0d7e7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-93845ce36acc1ab501b6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-93c0186ee3a4971be749",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9425e17482cbadf278e3",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-95dd05b97d99ffc467e5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-96c6f14a671e8c7ef4ae",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-98264a61c3943298fd73",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9a2d8cff1e0e4afc816a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9a65f7b718e539746f23",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9ab934615ba44926ec6d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9c425741042314a82d95",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9cdd0f69fa3f0f6d88c6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9d035ff35fa68693564e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9da746b6abcd439fa90e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9e2be271e0ce34357744",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-9f81e533f852d60b183f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a063ec3e13c58d019caa",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a37ecc20798de0aad6ad",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a38c3f8ce351a2be7f13",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a47ebbc4edcb364cb565",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a65c09eb8bf7a2c4acf5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a6cf18f96fccd7fd27c9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a6fbd28e105e477cd0cd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a7cce8de16b444d1664c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-a944a2ec648f9fca8243",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-aae687e6fca2e00c4414",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ab4d3c26d3e982091a61",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ab6162053581aa21a9be",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ac0bbcf4a98aa470754d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ac87f014024d92e83547",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ae35a4a589de3748707c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ae452ec526687ed16e00",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ae5343f398f03ca0e703",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-aed3d6865e16cf035bc3",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-af3ca04505a86a5dc9bd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b172c3e6998deba867db",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b20b18708b8abc0ea20d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b2173c7b07c3096662dd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b3b27945ce00692ab46f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b3d3e58934f48e07757a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b410c587a43b38b556e5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b45cb2c36639a29ba290",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b4d266e652b466457f35",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b56f761d8bbd34159e43",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b633b907bad7fae3b253",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b6a0ec118c669ace2530",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b74236a0d0f890a0fbfa",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b8712e62baecbf6e637e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b960efdf19c882cb46d6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-b9f3d78dc82fb0711f93",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-bc50f15e76252ea2253d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-bc92e0aad7e2094755fa",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-bf9d4d9e8c5ad0d7d7a5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-bfa7bd6d0f9f2dba1dc1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-bffc9d48db0800225223",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c4282281d32ed540fa91",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c444aed358dcfb59e06c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c7263438fd4ecfe27bd9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c86e753d0fa31b17ed38",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c8b20506d69f5a9e2c92",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c8f6593723f775e7da8f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-c95a353447884af6a87d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ca746c4de9f448aa633b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-cb735589b9c8db3dbba7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-cc4aea89423da89bc516",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-cd108f89692502a64110",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-cd55de6219e2dcf8fd07",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ce946d88fced01e5c0e4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d0c89ca2843d5a528f14",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d27580b8e0a5442eb923",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d37cc94e3ef4e08e4e5d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d75a89369371104bfd72",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d804c17edd6026c7b76b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d86f7ee6073b91258681",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d88110d9968a243bf45e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d88988d7198458eaecbc",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d8b65642dde9349c9744",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d9187c13d26d725358e5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-d9915a36d5519c96f109",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dac03da46d7aa52d7841",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-db38a6cbb89b339ef350",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dbc0d8e021f7d4be7526",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dc435c5f73b8e8078c4c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dd063b1556e9286297aa",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dd478909d4b2c63cec02",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dd70e9ded4bb565acf0f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-dea85d0790dc2aa0dd5d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e0c6578422695c1d2926",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e13e41ba824f2ddd6121",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e313df571d4ab92cc910",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e31dfb76824398dc4abc",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e39d73d4f5541f53ec8b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e3ac9df357552702d9c8",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e46494a0f87d763923f9",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e4afb031713994b72653",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e4e18ba6ef7e43601dd1",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e4f936c50cce236247cd",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e62d4ef24e2c9c168cbe",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e6c8e0cd1214916bde2e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e6f1187b28c27beab2f6",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e899a7773eff4dae5c09",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e8b6c3531c904e934e5b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-e91b6f903694ed578b93",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ea45e0dd0c696a3ff5eb",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ea7bd0f47c29c3d80a32",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ea91ac56bd9bd274300e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-eb2724ca02f2eb800db5",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ebfd5ad07190a1aa02f2",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ec06e0962eecbca592d7",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ed346a4ce750f68d009d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-eda7fd2157320b9b462e",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ee0b316d9f48ecdc9e1f",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ee7210bdc38b8baf5f4b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-eec8cc9e0bb076f06f88",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f19f8eec261814b449ff",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f30e369d2c94e4b8b447",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f33baeab4d22ac98964c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f43a48457dc9711aea60",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f4bf051017127405e7ad",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f4fc4af59c7e1a00eb03",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f5a3fe0230430afcfc6a",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f5e9ef4392d85fea470c",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f6d21fd076a97c3100e4",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f7520bd8263d41462d42",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f7e842d62a00d07400ca",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f947c6760de5573bfa46",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-f98826b1b32417ac2b4d",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fa2bf02238b3224bd255",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fa9e9629db968a7656ec",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fc3dace4e02b1bf1757b",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fdeb66ddc5b54a4a2265",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fe3597727dc666a54e32",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fe90df75b076f2533422",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-fea8b7f31b5970b6d582",
+      "status": "UNCHANGED"
+    },
+    {
+      "id": "camera-ff0e344d266385132213",
+      "status": "UNCHANGED"
+    }
+  ],
+  "counts": {
+    "ADDED": 0,
+    "CONFLICTING": 0,
+    "MODIFIED": 0,
+    "REMOVED": 0,
+    "UNCHANGED": 327
+  },
+  "generated_at": "2026-09-24T15:38:48.675017Z",
+  "schema_version": "1.0",
+  "source": "trafiken-nu-stockholm-camera-list"
+}

@@ -1,0 +1,10 @@
+{
+  "atm_count": 202,
+  "atms_sha256": "1bc439fe0fa1f4c5d2a43655d78932d6101b13afe4c0392d4b8deda4eaf2d418",
+  "camera_count": 743,
+  "dataset_version": "2026.09.24.4",
+  "generated_at": "2026-09-24T16:16:08Z",
+  "schema_version": "1.0",
+  "sha256": "3ffbc8229e61c1ebb02b88b31c0cf56c0212f613e7dea93fa8b2933ff0ff75a9",
+  "sources_sha256": "47fffa336586f01ff8042c7ed08184afd1bc356a30e13bf35b380a6af2ccd265"
+}
