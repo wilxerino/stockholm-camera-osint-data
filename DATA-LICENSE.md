@@ -1,7 +1,6 @@
 # Camera dataset license and attribution
 
-The combined camera database in `data/cameras.json` and its bundled copy in
-`Mosaic/cameras.json` include OpenStreetMap-derived records. The combined
+The combined camera database in `data/cameras.json` includes OpenStreetMap-derived records. The combined
 database is made available under the [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 
 Data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).

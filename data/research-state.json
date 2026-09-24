@@ -36,6 +36,11 @@
       "topic": "Police and city surveillance areas",
       "finding": "Polisen and Stockholm city publish monitoring purposes and some areas. Drone and temporary zones must be modeled as time-bounded areas, not fixed camera pins.",
       "source_url": "https://polisen.se/lagar-och-regler/behandling-av-personuppgifter/kamerabevakning/"
+    },
+    {
+      "topic": "SL stations and vehicles",
+      "finding": "SL reports cameras at all metro stations and most commuter rail stations, with monitoring in some other transit settings. This establishes site-level coverage, not each camera's exact coordinate, direction, FOV, or public feed. Research published station plans and site-specific notices before creating camera pins.",
+      "source_url": "https://sl.se/kundservice/villkor/kameror-for-en-tryggare-resa"
     }
   ],
   "schema_version": "1.0"
