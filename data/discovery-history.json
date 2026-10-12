@@ -13,8 +13,13 @@
     "accepted_count": 202,
     "candidate_count": 202,
     "discovered_at": "2026-09-24",
-    "failure_history": [],
-    "last_checked": "2026-09-24",
+    "failure_history": [
+      {
+        "date": "2026-10-12",
+        "reason": "all public ATM discovery endpoints failed: HTTP Error 504: Gateway Timeout; The read operation timed out"
+      }
+    ],
+    "last_checked": "2026-10-12",
     "source_id": "openstreetmap-stockholm-atms",
     "status": "accepted"
   },
@@ -28,7 +33,7 @@
         "reason": "HTTP Error 504: Gateway Timeout"
       }
     ],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-10-12",
     "reason": "174 exact camera/speed-camera OSM nodes revalidated through OSM API; low confidence, no feeds; ODbL attribution and share-alike applied.",
     "source_id": "openstreetmap-stockholm-surveillance",
     "status": "accepted"
@@ -38,7 +43,7 @@
     "candidate_count": 327,
     "discovered_at": "2026-09-24",
     "failure_history": [],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-10-12",
     "reason": "327 unique public still-image listings accepted after source and schema review; direction retained, FOV/range null",
     "source_id": "trafiken-nu-stockholm-camera-list",
     "status": "accepted"
