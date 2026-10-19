@@ -36,6 +36,20 @@ jobs:
               echo "Public $source source unavailable; retaining current production dataset" >&2
             fi
           done
+          # Secondary public index of Trafikverket road-weather/traffic cameras.
+          # It supplies coordinates and documented compass direction; unknown
+          # FOV/range remain null. A failure retains all prior datasets.
+          if python3 scripts/discover_trafikverket_road_cameras.py; then
+            git show HEAD:data/candidates/trafikverket-road-cameras.json > /tmp/previous-trafikverket-road-cameras.json 2>/dev/null || rm -f /tmp/previous-trafikverket-road-cameras.json
+            if python3 scripts/camera_data.py material-change data/candidates/trafikverket-road-cameras.json /tmp/previous-trafikverket-road-cameras.json; then
+              python3 scripts/camera_data.py reconcile data/candidates/trafikverket-road-cameras.json --output data/proposals/trafikverket-road-cameras.json
+              material=true
+            else
+              git restore -- data/candidates/trafikverket-road-cameras.json
+            fi
+          else
+            echo 'Trafikverket road-camera index unavailable; retaining existing datasets' >&2
+          fi
           if python3 scripts/discover_atms.py; then
             git show HEAD:data/candidates/atms.json > /tmp/previous-atms.json 2>/dev/null || rm -f /tmp/previous-atms.json
             if python3 scripts/camera_data.py material-change data/candidates/atms.json /tmp/previous-atms.json; then

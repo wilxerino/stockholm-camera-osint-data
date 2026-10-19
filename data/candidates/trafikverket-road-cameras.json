@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "confidence": "pending_review",
+      "feed": null,
+      "geometry_confidence": "unknown",
+      "geometry_provenance": "unknown",
+      "horizontal_fov": null,
+      "id": "camera-d77037b8d42d9f15d780",
+      "last_verified": "2026-10-19",
+      "latitude": 59.25792,
+      "longitude": 18.16655,
+      "name": "Älta road-condition camera",
+      "operator": "Trafikverket",
+      "orientation": null,
+      "primary_source_id": "trafikverket-open-traffic-api",
+      "range_m": null,
+      "source_ids": [
+        "trafikverket-open-traffic-api",
+        "fartkameran-stockholm-road-weather-directory"
+      ],
+      "source_native_id": "SE_STA_CAMERA_VViS_216_K1",
+      "source_url": "https://fartkameran.se/vagkamera/alta-v216/",
+      "status": "active",
+      "type": "road_monitoring",
+      "viewable": false
+    }
+  ],
+  "schema_version": "1.0",
+  "scope": "Published Trafikverket road-weather and traffic cameras in Stockholm municipality; one reviewed page record pending broader fetch",
+  "source": "trafikverket-open-traffic-api",
+  "sources": [
+    {
+      "id": "trafikverket-open-traffic-api",
+      "license": "Creative Commons CC0 1.0 (Trafikverket's API registration and VViS data specification)",
+      "public_feed_documentation": false,
+      "published_date": null,
+      "publisher": "Trafikverket",
+      "reliability": "high",
+      "retrieved_date": "2026-10-19",
+      "source_type": "government",
+      "title": "Trafikverket open traffic information API",
+      "url": "https://www.trafikverket.se/e-tjanster/trafikverkets-oppna-api-for-trafikinformation/"
+    },
+    {
+      "id": "fartkameran-stockholm-road-weather-directory",
+      "license": "Trafikverket source records are CC0 1.0 as documented by Trafikverket; directory provides per-camera metadata and publicly viewable image URLs",
+      "public_feed_documentation": true,
+      "published_date": null,
+      "publisher": "Fartkameran.se (records attributed to Trafikverket's API)",
+      "reliability": "medium",
+      "retrieved_date": "2026-10-19",
+      "source_type": "other",
+      "title": "Stockholm road-weather and traffic camera directory",
+      "url": "https://fartkameran.se/vagvader/stockholm-kommun/"
+    }
+  ]
+}

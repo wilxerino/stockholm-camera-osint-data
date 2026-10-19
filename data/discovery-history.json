@@ -13,8 +13,13 @@
     "accepted_count": 202,
     "candidate_count": 202,
     "discovered_at": "2026-09-24",
-    "failure_history": [],
-    "last_checked": "2026-09-24",
+    "failure_history": [
+      {
+        "date": "2026-10-05",
+        "reason": "2026-10-05: both public ATM discovery endpoints failed: HTTP 504 and timeout. Existing candidates retained."
+      }
+    ],
+    "last_checked": "2026-10-05",
     "source_id": "openstreetmap-stockholm-atms",
     "status": "accepted"
   },
@@ -26,9 +31,13 @@
       {
         "date": "2026-09-24",
         "reason": "HTTP Error 504: Gateway Timeout"
+      },
+      {
+        "date": "2026-10-05",
+        "reason": "2026-10-05: all configured Overpass endpoints failed: overpass-api.de returned HTTP 504; overpass.private.coffee timed out. Existing candidates retained."
       }
     ],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-10-05",
     "reason": "174 exact camera/speed-camera OSM nodes revalidated through OSM API; low confidence, no feeds; ODbL attribution and share-alike applied.",
     "source_id": "openstreetmap-stockholm-surveillance",
     "status": "accepted"
@@ -42,5 +51,20 @@
     "reason": "327 unique public still-image listings accepted after source and schema review; direction retained, FOV/range null",
     "source_id": "trafiken-nu-stockholm-camera-list",
     "status": "accepted"
+  },
+  {
+    "accepted_count": 0,
+    "discovered_at": "2026-10-19",
+    "failure_history": [
+      {
+        "date": "2026-10-19",
+        "reason": "<urlopen error [Errno 54] Connection reset by peer>"
+      }
+    ],
+    "last_checked": "2026-10-19",
+    "source_id": "trafikverket-open-traffic-api",
+    "status": "pending_review",
+    "candidate_count": 1,
+    "reason": "One VViS road-condition camera is documented at Älta with coordinates; 104 total Stockholm cameras are reported in the directory. Automated page retrieval reset the connection, so broader extraction remains pending."
   }
 ]
