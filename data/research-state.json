@@ -1,6 +1,6 @@
 {
   "decisions": {},
-  "last_research_at": "2026-09-24",
+  "last_research_at": "2026-10-19",
   "notes": [
     {
       "finding": "Bankomat says most machines have surveillance. This does not identify which machines or camera coordinates; seek per-site evidence before mapping.",
@@ -41,6 +41,18 @@
       "topic": "SL stations and vehicles",
       "finding": "SL reports cameras at all metro stations and most commuter rail stations, with monitoring in some other transit settings. This establishes site-level coverage, not each camera's exact coordinate, direction, FOV, or public feed. Research published station plans and site-specific notices before creating camera pins.",
       "source_url": "https://sl.se/kundservice/villkor/kameror-for-en-tryggare-resa"
+    },
+    {
+      "topic": "Temporary police drone camera notice",
+      "source_url": "https://polisen.se/aktuellt/nyheter/stockholm/2026/september/kamerabevakning-med-dronare-i-stockholms-innerstad/",
+      "finding": "Search-indexed official notice published 2026-09-25 described possible drone camera monitoring in two Stockholm areas on 2026-09-29 only. This is an expired temporary area, not a fixed camera location or lens geometry; direct page fetch returned 404 on 2026-10-05. Not suitable for camera candidates."
+    },
+    {
+      "topic": "Trafikverket Stockholm road-weather and traffic cameras",
+      "source_url": "https://fartkameran.se/vagvader/stockholm-kommun/",
+      "finding": "The public directory reports 104 cameras across 101 Stockholm places and attributes camera records and image URLs to Trafikverket open API object types WeatherMeasurepoint and Camera under CC0. It exposes per-record coordinates and in some cases direction. Existing traffic records overlap, so reconcile by Trafikverket native ID; keep FOV/range null unless separately documented. Feed metadata is limited to explicitly documented public still images.",
+      "checked_at": "2026-10-19",
+      "status": "candidate source; adapter fetch failed locally with connection reset; no candidate records accepted"
     }
   ],
   "schema_version": "1.0"
