@@ -7,7 +7,7 @@
         "latitude": 59.3249705,
         "longitude": 18.0693319,
         "name": null,
-        "operator": null,
+        "operator": "Bankomat",
         "source_ids": [
           "openstreetmap-stockholm-atms"
         ],
@@ -27,7 +27,7 @@
       },
       "id": "atm-osm-node-10302282791",
       "reason": null,
-      "status": "UNCHANGED"
+      "status": "MODIFIED"
     },
     {
       "after": {
@@ -2210,7 +2210,7 @@
         "id": "atm-osm-node-2608542304",
         "latitude": 59.2435655,
         "longitude": 18.0926173,
-        "name": null,
+        "name": "Bankomat",
         "operator": "Bankomat AB",
         "source_ids": [
           "openstreetmap-stockholm-atms"
@@ -2231,7 +2231,7 @@
       },
       "id": "atm-osm-node-2608542304",
       "reason": null,
-      "status": "UNCHANGED"
+      "status": "MODIFIED"
     },
     {
       "after": {
@@ -2733,7 +2733,7 @@
         "latitude": 59.4102285,
         "longitude": 17.9637051,
         "name": null,
-        "operator": null,
+        "operator": "Bankomat",
         "source_ids": [
           "openstreetmap-stockholm-atms"
         ],
@@ -2753,7 +2753,7 @@
       },
       "id": "atm-osm-node-38438086",
       "reason": null,
-      "status": "UNCHANGED"
+      "status": "MODIFIED"
     },
     {
       "after": {

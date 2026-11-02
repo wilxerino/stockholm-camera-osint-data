@@ -1,10 +1,10 @@
 [
   {
     "accepted_count": 241,
-    "candidate_count": 293,
+    "candidate_count": 292,
     "discovered_at": "2026-09-24",
     "failure_history": [],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-11-02",
     "reason": "293 published coordinates validated; 241 imported at medium confidence; 52 near an existing camera held for duplicate review.",
     "source_id": "fartkameran-stockholm-safety-list",
     "status": "partially_accepted"
@@ -14,7 +14,7 @@
     "candidate_count": 202,
     "discovered_at": "2026-09-24",
     "failure_history": [],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-11-02",
     "source_id": "openstreetmap-stockholm-atms",
     "status": "accepted"
   },
@@ -26,9 +26,13 @@
       {
         "date": "2026-09-24",
         "reason": "HTTP Error 504: Gateway Timeout"
+      },
+      {
+        "date": "2026-11-02",
+        "reason": "all public Overpass endpoints unavailable: https://overpass-api.de/api/interpreter: HTTP Error 502: Bad Gateway; https://overpass.private.coffee/api/interpreter: The read operation timed out"
       }
     ],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-11-02",
     "reason": "174 exact camera/speed-camera OSM nodes revalidated through OSM API; low confidence, no feeds; ODbL attribution and share-alike applied.",
     "source_id": "openstreetmap-stockholm-surveillance",
     "status": "accepted"
@@ -38,7 +42,7 @@
     "candidate_count": 327,
     "discovered_at": "2026-09-24",
     "failure_history": [],
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-11-02",
     "reason": "327 unique public still-image listings accepted after source and schema review; direction retained, FOV/range null",
     "source_id": "trafiken-nu-stockholm-camera-list",
     "status": "accepted"
